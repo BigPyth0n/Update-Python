@@ -19,8 +19,14 @@ sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-
 
 sudo apt install python3-pip
 
+pip3 install virtualenv
+
 برای فشرده کردن و اکسترکت پوشه
 
 tar -czvf archive.tar.gz CryptoMehran
 
-tar -xvf
+tar -xvf CryptoMehran_07-02-1403-2.tar.gz
+
+برای تغییر نام یک فولدر، از دستور mv به شکل زیر استفاده کنید:
+
+
